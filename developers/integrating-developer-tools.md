@@ -60,6 +60,14 @@ ApiServices();
 
 ## Indexers
 
+### [**Envio**](https://envio.dev/?utm_source=crossfi&utm_medium=partner-docs)&#x20;
+
+Envio is the data layer for blockchain apps. It gives CrossFi developers the fastest, most flexible way to get real-time and historical onchain data, from a single GraphQL API to raw high-speed access, with managed hosting on Envio Cloud.
+
+Envio's HyperIndex natively supports indexing any EVM chain out of the box, including CrossFi, using your own RPC as the data source.
+
+***
+
 ### [**Subsquid**](https://subsquid.io/)&#x20;
 
 Subsquid Network is a decentralized query engine optimized for batch extraction of large volumes of data. It currently serves historial on-chain data, including event logs, transaction receipts, traces and per-transaction state diffs.
