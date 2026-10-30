@@ -62,9 +62,9 @@ ApiServices();
 
 ### [**Envio**](https://envio.dev/?utm_source=crossfi&utm_medium=partner-docs)&#x20;
 
-Envio is the data layer for blockchain apps. It gives CrossFi developers the fastest, most flexible way to get real-time and historical onchain data, from a single GraphQL API to raw high-speed access, with managed hosting on Envio Cloud.
+Envio builds custom blockchain APIs and analytics. CrossFi developers can use HyperIndex to choose the contracts and events to track, write TypeScript handlers and query the result through a GraphQL API, then run it themselves or deploy to Envio Cloud.
 
-Envio's HyperIndex natively supports indexing any EVM chain out of the box, including CrossFi, using your own RPC as the data source.
+HyperIndex works with CrossFi using your own RPC as the data source.
 
 ***
 
